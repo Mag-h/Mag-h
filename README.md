@@ -1,26 +1,20 @@
 # 👋 Hi, I’m Maguelonne Héritier  
 
 
-
-I am a **Computer Vision and Machine Learning Lead** with 20+ years of experience in **AI research and industry**.  
-
-My career is dedicated to designing **responsible AI systems** that are interpretable, reliable, and impactful — particularly in **critical security applications**.  
-
-
+I am a **Computer Vision and Machine Learning Lead** with 20+ years of experience. 
+Throughout my career, I have focused on **bridging academic research and industrial R&D** in AI and computer vision — turning cutting-edge ideas into impactful real-world systems.
 
 ---
 
 
 
-## 🔐 Current Focus  
+## 🔐 Current Focus 
 
-- **Physical security & video surveillance systems**: designing AI that operates in high-stakes, mission-critical contexts  
 
-- **Responsible AI**: embedding interpretability and transparency into models by design  
+- **Physical security & video surveillance systems**: designing and deploying AI that operates in high-stakes, mission-critical contexts
+- **Responsible & interpretable AI**: ensuring transparency and trust in decision-making systems 
+- **Embedded analytics**: designing efficient models for constrained hardware with strict reliability requirements 
 
-- **Embedded analytics**: developing efficient deep learning solutions for constrained hardware, ensuring performance under strict resource limitations  
-
-- **Reliability first**: delivering models that meet industrial requirements for robustness, safety, and trustworthiness  
 
 
 
@@ -30,15 +24,15 @@ My career is dedicated to designing **responsible AI systems** that are interpre
 
 ## 🏆 Highlights  
 
-- Lead R&D in **AI for physical security** at Genetec (2017–present)  
+- Lead R&D in **deep learning for security applications** at Genetec (2017–present)  
 
-- Expertise in **interpretable and trustworthy AI** for surveillance systems, where accountability is essential  
+- Expertise in **AI interpretability** and **trustable models** for critical systems   
 
 - Patents and publications bridging **academic research and industrial R&D**  
 
-- Former specialist at Matrox, designing patented computer vision algorithms  
+- Former Specialist in the Automated Visual Inspection Industry at Matrox, designing patented computer vision algorithms  
 
-- Senior Research Engineer at CRIM – *1st place at TRECVID 2009 Video Copy Detection Challenge*  
+- Senior Research Engineer at CRIM – Main scientific contribution for a Automated Video Description Application - *1st place at TRECVID 2009 Video Copy Detection Challenge*  
 
 
 
@@ -62,13 +56,11 @@ My career is dedicated to designing **responsible AI systems** that are interpre
 
 
 
-## 🌍 Why Responsible AI Matters  
-
-In critical applications like physical security, AI is not just about accuracy — it’s about **trust, transparency, and accountability**.  
-
-I believe that **interpretable by design models** are the path to building systems that people can understand, rely on, and responsibly deploy in society.  
+## 🌍 My Vision  
 
 
+AI has the most impact when **academic excellence** meets **industrial deployment**. 
+In recent years, I have been focusing on making this impact **responsible**, ensuring that models used in **critical security applications** are **interpretable, efficient, and reliable**.
 
 ---
 
