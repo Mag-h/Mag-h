@@ -50,6 +50,9 @@ Throughout my career, I have focused on **bridging academic research and industr
 
 - [**Key-Places detection in video**](https://d1wqtxts1xzle7.cloudfront.net/43629669/Places_Clustering_of_Full-Length_Film_Ke20160311-25634-15g8wom-libre.pdf?1457716404=&response-content-disposition=inline%3B+filename%3DPlaces_Clustering_of_Full_Length_Film_Ke.pdf&Expires=1755823366&Signature=SVAtGnW9vO7VKaBLyniqgd~iGGqp-K87sluJC~qXdUmlu0Er~dIj4MaCt7JyT~dqdjwNHv-fvZ~NFny7PfjcY3xu6bgGQEqBz7CAkwPNy5srQ1mn0~cKxafioLTwrTHn6vPplHpzIIZkAThuC5OHANduovNvQIKtTyAeqB2lZjdHdsBVXFwCm-blyuNTrhHgTWXcW047l~oxkP5gEpA~VqCOg5g77k9KXRSroUwJVVyqzuTkQqS6-5jrcABdaN-GbmqRIDPqH6pzBwFgbAYZ-5a2goiTJlfMtZHT7ZLvwYF5cDwL8Emj25TVoUvLBuf0apAHkma4A-BvDi202GC8rQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA): For automated video description
 
+
+   
+
 ➡️ [See full list on Google Scholar](https://scholar.google.com/citations?hl=fr&user=OBIkP1AAAAAJ)  
 
 
