@@ -42,11 +42,13 @@ Throughout my career, I have focused on **bridging academic research and industr
 
 ## 📚 Selected Publications  
 
-- **EXaM**: Concept-based representation learning for explainability – *CVPR Workshop 2025* (Spotlight)  
+- [**EXaM**](https://openaccess.thecvf.com/content/CVPR2025W/XAI4CV/papers/Heritier_ExaM_Unsupervised_Concept-Based_Representation_Learning_to_Better_Explain_Models_in_CVPRW_2025_paper.pdf): Concept-based representation learning for explainability – *CVPR Workshop 2025* (Spotlight)  
 
-- **CenterPoly**: Real-time instance segmentation – *ICCV 2021*  
+- [**CenterPoly**](https://openaccess.thecvf.com/content/ICCV2021W/AVVision/papers/Perreault_CenterPoly_Real-Time_Instance_Segmentation_Using_Bounding_Polygons_ICCVW_2021_paper.pdf): Real-time instance segmentation – *ICCV 2021*  
 
-- **RN-VID**: Video object detection – *ICIAR 2020, Best Paper*  
+- [**RN-VID**](https://arxiv.org/pdf/2003.10898): Video object detection – *ICIAR 2020, Best Paper*
+
+- [**Key-Places detection in video**](https://d1wqtxts1xzle7.cloudfront.net/43629669/Places_Clustering_of_Full-Length_Film_Ke20160311-25634-15g8wom-libre.pdf?1457716404=&response-content-disposition=inline%3B+filename%3DPlaces_Clustering_of_Full_Length_Film_Ke.pdf&Expires=1755823366&Signature=SVAtGnW9vO7VKaBLyniqgd~iGGqp-K87sluJC~qXdUmlu0Er~dIj4MaCt7JyT~dqdjwNHv-fvZ~NFny7PfjcY3xu6bgGQEqBz7CAkwPNy5srQ1mn0~cKxafioLTwrTHn6vPplHpzIIZkAThuC5OHANduovNvQIKtTyAeqB2lZjdHdsBVXFwCm-blyuNTrhHgTWXcW047l~oxkP5gEpA~VqCOg5g77k9KXRSroUwJVVyqzuTkQqS6-5jrcABdaN-GbmqRIDPqH6pzBwFgbAYZ-5a2goiTJlfMtZHT7ZLvwYF5cDwL8Emj25TVoUvLBuf0apAHkma4A-BvDi202GC8rQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA): For automated video description
 
 ➡️ [See full list on Google Scholar](https://scholar.google.com/citations?hl=fr&user=OBIkP1AAAAAJ)  
 
@@ -61,10 +63,10 @@ Throughout my career, I have focused on **bridging academic research and industr
 
 
 
-AI has the greatest impact when academic excellence meets industrial deployment.
+AI has the greatest impact when **academic excellence** meets **industrial deployment**.
 My journey has been about building this bridge, transforming research into products that matter.
 In recent years, I have focused on ensuring that this impact is responsible and ethical, especially in critical physical security applications.
-For me, responsible AI means models that are interpretable, efficient, reliable, and that also protect privacy and respect human rights.
+For me, **responsible AI** means models that are **interpretable**, **efficient**, **reliable**, and that also **protect privacy** and **respect human rights**.
 
 ---
 
