@@ -59,8 +59,12 @@ Throughout my career, I have focused on **bridging academic research and industr
 ## 🌍 My Vision  
 
 
-AI has the most impact when **academic excellence** meets **industrial deployment**. 
-In recent years, I have been focusing on making this impact **responsible**, ensuring that models used in **critical security applications** are **interpretable, efficient, and reliable**.
+
+
+AI has the greatest impact when academic excellence meets industrial deployment.
+My journey has been about building this bridge, transforming research into products that matter.
+In recent years, I have focused on ensuring that this impact is responsible and ethical, especially in critical physical security applications.
+For me, responsible AI means models that are interpretable, efficient, reliable, and that also protect privacy and respect human rights.
 
 ---
 
