@@ -1,4 +1,4 @@
-# 👋 Hi, I'am Maguelonne Héritier, 
+# 👋 Hi, I'm Maguelonne Héritier, 
 
 
 I am a **Computer Vision and Machine Learning Lead** with 20+ years of experience. 
