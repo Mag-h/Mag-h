@@ -28,11 +28,11 @@ Throughout my career, I have focused on **bridging academic research and industr
 
 - Expertise in **AI interpretability** and **trustable models** for critical systems   
 
-- Patents and publications bridging **academic research and industrial R&D**  
+- **Patents and publications** bridging academic research and industrial R&D  
 
-- Former Specialist in the Automated Visual Inspection Industry at Matrox, designing patented computer vision algorithms  
+- Former Specialist in the **Automated Visual Inspection Industry** at Matrox, designing patented computer vision algorithms  
 
-- Senior Research Engineer at CRIM – Main scientific contribution for a Automated Video Description Application - *1st place at TRECVID 2009 Video Copy Detection Challenge*  
+- Senior Research Engineer at CRIM – Main scientific contribution for a **Automated Video Description Application** - *1st place at TRECVID 2009 Video Copy Detection Challenge*  
 
 
 
